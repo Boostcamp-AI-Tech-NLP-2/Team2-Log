@@ -1,7 +1,7 @@
 ### Paper Review
 - 매우 단순한 모형(CBOW, SG)으로도 높은 수준의 word vector 를 학습 시켰으며 이를 syntactic, semantic question 들에 대한 similarity task로 평가하였다.
 - Scaling up이 현실적으로 가능하려면 결국 연산 복잡도에 대한 개선이 필요한 상태였으며, 해당 모형을 통해서 그것이 가능해졌다.
-- 다양한 NLP task 에 활용될 수 있는 enriched word embedding 방법을 제시하였다.
+- 다양한 NLP task 에 활용될 수 있는 enriched된 word embedding 방법을 제시하였다.
 - CBOW 는 semantic task acc, SG는 syntactic task acc 가 부족하다는 experimental result
   ->  이를 보완할 수 있는 방법이 필요해보임. (context뿐만아니라 문법적인 특성을 capture 할 수 있는 SG 모형?)
 
