@@ -23,8 +23,6 @@
 
 ## 2주차 (2021.09.13~09.17)
 #### MUST
-- *Attention Is All You Need* NIPS '17
-  - 발표자: 이노아
 - *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding* NAACL '19
   - 발표자: 이노아
 - *Improving Language Understanding by Generative Pre-Training* '18  (GPT-1)
